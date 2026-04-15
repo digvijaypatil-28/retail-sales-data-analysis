@@ -1,4 +1,4 @@
-# Retail Sales Data Analysis
+# DataMart Intelligence System 
 
 ## Business Problem
 Retail businesses need to understand customer behavior, seasonal demand, and product performance to optimize marketing, inventory, and pricing strategies.  
